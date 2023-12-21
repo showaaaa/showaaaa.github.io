@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1c44de48.css",
+    "main.js": "/static/js/main.75eef5d7.js",
+    "static/media/resume1.pdf": "/static/media/resume1.104661f4334f6c6a012c.pdf",
+    "static/media/miniamazon.png": "/static/media/miniamazon.44b91ef6b96366de016e.png",
+    "static/media/httpproxy.png": "/static/media/httpproxy.c66873661c4465ec7641.png",
+    "static/media/dukelogo.jpg": "/static/media/dukelogo.2ce751742ef3d868b557.jpg",
+    "static/media/footbg.png": "/static/media/footbg.786f6894dcd5ce9af1b8.png",
+    "static/media/oslab.png": "/static/media/oslab.efae527f5f782c8cc51c.png",
+    "static/media/profile.jpg": "/static/media/profile.98d023a91c0d4b7a91f7.jpg",
+    "static/media/unnc.jpg": "/static/media/unnc.465250d609eeaaa633ae.jpg",
+    "index.html": "/index.html",
+    "main.1c44de48.css.map": "/static/css/main.1c44de48.css.map",
+    "main.75eef5d7.js.map": "/static/js/main.75eef5d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c44de48.css",
+    "static/js/main.75eef5d7.js"
+  ]
+}
